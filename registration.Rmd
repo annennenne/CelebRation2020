@@ -1,0 +1,25 @@
+---
+title: "Registration"
+output: html_document
+---
+
+## Prices
+
+
+| Ticket                            | Price                |
+|-----------------------------------|----------------------|
+| Conference day (early bird price) | 500 DKK (~70 euros)  |
+| Conference day (regular price)    | 750 DKK (~100 euros) |
+| Workshop (early bird price)       | 350 DKK (~50 euros)  |
+| Workshop (regular price)          | 500 DKK (~70 euros)  |
+
+
+The early bird tickets are on sale until January 6, 2020, or until sold out. The regular tickets are on sale until February 3, 2020, or until sold out. 
+
+We offer a very limited number of free tickets in exchange for practical help on February 28 and 29. If you are interested in this option, contact us at helper@celebration2020.org and write a few sentences about yourself.  
+
+## Register
+
+Register [here](https://eventsignup.ku.dk/celebration2020/registration.html").
+
+If you have questions about registration, contact us at registration@celebration2020.org. 

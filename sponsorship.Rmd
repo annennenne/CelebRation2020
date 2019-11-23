@@ -1,0 +1,20 @@
+---
+title: "Sponsor"
+output: html_document
+---
+
+### Becoming a sponsor
+
+If your organazation is interested in becoming a sponsor for CelebRation 2020, please have a look at our <a href="files/sponsorinfo.pdf">sponsorship information document</a> and contact us at sponsor@celebRation2020.org.  
+
+
+
+### Sponsors
+
+
+<a href="https://www.novonordisk.com/"> <h3>Novo Nordisk</h3></a>
+
+<img src="./pics/novologo.png" alt="Novo Nordisk" style="width:400px">
+
+
+<a href = "https://www.dsts.dk"> <h3>The Danish Society for Theoretical Statistics</h3></a>

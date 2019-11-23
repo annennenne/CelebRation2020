@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574457510780.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1608820044",
+    "id" : "1A14860C",
+    "lastKnownWriteTime" : 1574511459,
+    "last_content_update" : 1574511459786,
+    "path" : "~/bshome/celebration2020/celebration2020/sponsorship.Rmd",
+    "project_path" : "sponsorship.Rmd",
+    "properties" : {
+        "cursorPosition" : "17,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

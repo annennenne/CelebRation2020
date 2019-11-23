@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574456442977.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3469154693",
+    "id" : "1E812DB8",
+    "lastKnownWriteTime" : 1574511536,
+    "last_content_update" : 1574511536478,
+    "path" : "~/bshome/celebration2020/celebration2020/workshops.Rmd",
+    "project_path" : "workshops.Rmd",
+    "properties" : {
+        "cursorPosition" : "10,403",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

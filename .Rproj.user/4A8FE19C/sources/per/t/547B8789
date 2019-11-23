@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574457483374.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3387124567",
+    "id" : "547B8789",
+    "lastKnownWriteTime" : 1574511561,
+    "last_content_update" : 1574511561865,
+    "path" : "~/bshome/celebration2020/celebration2020/about.Rmd",
+    "project_path" : "about.Rmd",
+    "properties" : {
+        "cursorPosition" : "39,0",
+        "scrollLine" : "13",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

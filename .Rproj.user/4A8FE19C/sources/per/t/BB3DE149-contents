@@ -1,0 +1,82 @@
+---
+title: "Program"
+output: html_document
+includes:
+  - in-header: imginclude.html
+---
+
+### Program outline
+*A detailed program will be added soon.*
+
+
+##### February 28, 2020:
+
+- 13.00-17.00: [Workshops](workshops.html)
+
+##### February 29, 2020:
+
+- 10.00-18.00: CelebRation 2020 invited presentations.
+- 18.00-20.00: Reception and celebration of R. 
+
+
+
+### Speakers
+
+**FIKS FORMATTERING - TEKST VED SIDEN AF BILLEDER?**
+
+
+
+#### Peter Dalgaard
+*Copenhagen Business School, Denmark* 
+
+<img src="./pics/peterdalgaard.jpg" alt="Peter Dalgaard" style="width:200px;border-radius:50%">
+
+Peter is a member of the R core group and has been release manager since before the release of version 1.0.0, He is currently working towards the release of version 4.0.0.
+
+
+#### Julia Silge 
+*StackOverflow, USA*
+
+<img src="./pics/juliasilge.jpg" alt="Julia Silge" style="width:200px;border-radius:50%">
+
+Julia is the author of the tidytext R package and has been a strong advocate for tidy structured text mining approaches in R. 
+
+#### Roger Bivand 
+*Norwegian School of Economics, Norway*
+
+<img src="./pics/rogerbivand.jpg" alt="Roger Bivand" style="width:200px;border-radius:50%">
+
+Roger has been active in the R community since 1997 and is the author of numerous R packages, particularly in the field the spatial data analysis. Roger is a member of the R foundation.
+
+#### Heather Turner 
+*Freelance, UK*
+
+<img src="./pics/heatherturner.png" alt="Heather Turner" style="width:200px;border-radius:50%">
+
+Heather is the chair of R Forwards - an R Foundation task force for underrepresented groups in the R community. Heather is also a member of the R foundation. 
+
+#### Therese Graversen
+*IT University of Copenhagen, Denmark*
+
+<img src="./pics/theresegraversen.jpg" alt="Therese Graversen" style="width:200px;border-radius:50%;object-fit:cover">
+
+Therese has developed the DNAmixtures R package for analyzing DNA samples. She has used her research and the R package to help forensic investigations by serving as an expert witness for the British police several times.
+
+
+
+### Workshop hosts
+
+#### Dirk Eddelbuettel
+*University of Illinois, USA*
+
+<img src="./pics/dirkeddelbuettel.jpeg" alt="Dirk Eddelbuettel" style="width:200px;border-radius:50%">
+
+Dirk will host a workshop on the Rcpp library, which is a highly used API for integrating C++ code into R.
+
+
+#### Thomas Lin Pedersen
+*RStudio, Denmark*
+
+<img src="./pics/thomaslinpedersen.jpg" alt="Thomas Lin Pedersen" style="width:200px;border-radius:50%">
+
+Thomas will host a workshop on the ggplot family of packages can be used for producing diverse and customizable graphics in R. 
