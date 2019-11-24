@@ -16,6 +16,7 @@ On February 28 from 13.00-17.00, we offer two parallel, exiting workshops, **Con
 Workshop host: Thomas Lin Pedersen, software engineer at RStudio. 
 
 #### Background
+
 Data visualisation lies in the centre of how most data is inspected and communicated, whether that communication is between yourself and the computer, or between you and an audience. Visualisations shape how you think about data, and can thus also constrain your thinking if your ability to visualise data is limited. Because of this link between cognition and perception, it is important to be skilled in a visualisation framework that provides high flexibility and low cost of iteration. ggplot2 has been a successful framework for both explorative and publication-ready data visualisation for more than 10 years, and is still being actively developed and expanded. It’s success is to a high degree due to the flexible theoretical foundation of the API, that allows you to quickly iterate and change between different plot types without having to change mindset.
 
 #### Learning outcome

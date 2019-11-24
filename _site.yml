@@ -10,7 +10,7 @@ navbar:
       href: program.html
     - text: "Important dates"
       icon: fa-calendar-alt
-      href: books.html
+      href: dates.html
     - text: "Registration"
       icon: fa-ticket-alt
       href: registration.html
