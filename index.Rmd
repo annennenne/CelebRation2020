@@ -4,8 +4,16 @@ output: html_document
 ---
 
 
-<h2>R conference in Copenhagen, Denmark, February 28-29 2020</h2>
-<h3>A celebration of the 20th anniversary of R version 1.0.0</h3>
+# R conference in Copenhagen, Denmark, February 28-29 2020
+## A celebration of the 20th anniversary of R version 1.0.0
+
+```{r echo=FALSE}
+knitr::include_graphics("pics/logotight.png")
+```
+
+
+
+
 <h3><a href="registration.html">Registration open now!</a></h3>
 
 

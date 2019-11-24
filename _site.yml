@@ -1,0 +1,26 @@
+name: "CelebRation 2020"
+navbar:
+  title: "CelebRation 2020"
+  right:
+    - text: "Practicalities"
+      icon: fa-question-circle
+      href: faq.html
+    - text: "Programme and workshops"
+      icon: fa-comment
+      href: program.html
+    - text: "Important dates"
+      icon: fa-calendar-alt
+      href: books.html
+    - text: "Registration"
+      icon: fa-ticket-alt
+      href: registration.html
+output:
+  html_document:
+    theme: journal
+    highlight: textmate
+    mathjax: default
+    include:
+      after_body: footer.html
+    css: style.css
+
+exclude: ["Makefile", "oldstyle.css", "~*", "*.R", "*~"]
