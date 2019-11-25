@@ -43,7 +43,7 @@ knitr::include_graphics("pics/peterdalgaard.jpg")
 #### Peter Dalgaard
 *Copenhagen Business School, Denmark* 
 
-Peter is a member of the R core group and has been release manager since before the release of version 1.0.0, He is currently working towards the release of version 4.0.0.
+Peter is a member of the R core group and has been release manager since before the release of version 1.0.0. He is currently working towards the release of version 4.0.0.
 
 </div>
 
