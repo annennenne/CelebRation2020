@@ -22,6 +22,7 @@ includes:
 
 ### Speakers
 
+*More to be announced*
 
 ```{r echo=FALSE}
 knitr::knit_hooks$set(class = function(before, options, envir) {
@@ -82,7 +83,7 @@ knitr::include_graphics("pics/heatherturner.png")
 #### Heather Turner 
 *Freelance, UK*
 
-Heather is the chair of R Forwards - an R Foundation task force for underrepresented groups in the R community. Heather is also a member of the R foundation. 
+Heather is the chair of R Forwards - an R Foundation task force for underrepresented groups in the R community. Heather is a member of the R foundation. 
 
 </div>
 

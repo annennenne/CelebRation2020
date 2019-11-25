@@ -8,39 +8,63 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-On February 28 from 13.00-17.00, we offer two parallel, exiting workshops, **Contemporary ggplot2** hosted by Thomas Lin Pedersen and **Seamless R and C++ Integration with Rcpp** hosted by Dirk Eddelbuettel, described in more detail below. Note that there are limited seats available for each workshop and that tickets can be purchased when <a href="registration.html">registering for the conference</a>.
+On February 28 from 13.00-17.00, we offer two parallel, exciting workshops, **Contemporary ggplot2** hosted by Thomas Lin Pedersen and **Extending R with C++** hosted by Dirk Eddelbuettel, described in more detail below. Note that there are limited seats available for each workshop and that tickets can be purchased when <a href="registration.html">registering for the conference</a>.
 
 
 ### Contemporary ggplot2
 
-Workshop host: Thomas Lin Pedersen, software engineer at RStudio. 
+*Workshop host: Thomas Lin Pedersen, software engineer at RStudio. *
 
 #### Background
 
 Data visualisation lies in the centre of how most data is inspected and communicated, whether that communication is between yourself and the computer, or between you and an audience. Visualisations shape how you think about data, and can thus also constrain your thinking if your ability to visualise data is limited. Because of this link between cognition and perception, it is important to be skilled in a visualisation framework that provides high flexibility and low cost of iteration. ggplot2 has been a successful framework for both explorative and publication-ready data visualisation for more than 10 years, and is still being actively developed and expanded. It’s success is to a high degree due to the flexible theoretical foundation of the API, that allows you to quickly iterate and change between different plot types without having to change mindset.
 
-#### Learning outcome
+#### Workshop contents
 This workshop will teach you the fundamental parts of ggplot2, with a focus on understanding the “why”. This means that you will not just learn “how to make a bar plot with ggplot2”, but “how to make any plot with ggplot2”. The workshop will be a mix of theory and practical exercises so that the API will be both understood and internalised. While the basics will be taught, there will be an emphasis on “modern” ggplot2, meaning that recent and upcoming features will take up a fair chunk of the time, as will the flourishing ecosystem of extension packages. It is thus the aim that attendants will become equipped to follow and explore the the ever-expanding world of ggplot2.
 
-#### Prerequisites
+#### Target audience
 It is assumed that attendants have basic experience in using R as R syntax, data import and data wrangling will not be taught. No prior knowledge or experience of ggplot2 is assumed. That being said, if you have used ggplot2 before, the focus on newer features and extensions will make sure that you will likely learn something new as well.
 
 #### About the instructor
 Thomas is part of the tidyverse team at RStudio, where he focuses on improving the performance of graphic rendering in R as well as taking part in maintaining ggplot2 and related packages. He is the developer of the `ggraph` and `gganimate` packages, among others and blogs about data visualization and data art at https://www.data-imaginist.com/. He has a background in computational biology.
 
 
-### Seamless R and C++ Integration with Rcpp
+### Rcpp Workshop: Extending R with C++
 
-Workshop host: Dirk Eddelbuettel. 
+*Workshop host: Dirk Eddelbuettel, Clinical Professor at the University of Illinois.*
 
-#### Background
-...
+#### Background 
+R has risen to become the lingua franca of statistical research and applications. 
+At the same time, user demands on computing resources
+and performance have also increased. This is driven chiefly by the
+ever-growing size of datasets, and may sometimes be coupled with
+increases in their complexity. The quest for computing with larger
+datasets, as well as the ever-present desire to also compute “faster”
+make complementing the interpreted language-processing at the core
+of R with native code extensions a natural next step.
+The Rcpp package has become the principal venue for extending R with compiled
+code. It makes it easy to extend R with C or C++ spanning the range from
+simple one-liners to larger routines and bindings of entire external
+libraries. 
 
-#### Learning outcome
-...
+#### Workshop contents
+We will motivate and introduce Rcpp as a natural extension to R
+that provides an easy-to-use and powerful interface. Helper functions and
+tools including RStudio will be used to easy creation of R
+extensions. Several examples will introduce basic use cases including writing
+code with RcppArmadillo which is the most widely-used package on top of Rcpp.
 
-#### Prerequisites
-...
+#### Target Audience
+R users wanting to go beyond R. Prior experience with
+compiled languages like C and C++ is helpful but not required.
 
 #### About the instructor
-...
+Dr Dirk Eddelbuettel has been a (co-)author and maintainer for the
+Rcpp project since its inception. He works as a senior “quant” in in-
+dustry combining C++ and R for high-frequency data analysis and
+predictive models in finance, and teaches a class on Data Science Pro-
+gramming Methods as a Clinical Professor at the University of Illinois
+at Urbana-Champaign. He is author, co-author, or maintainer of sixty
+CRAN packages, an elected board member of the R Foundation, and a
+25+ year contributor to Debian looking after 150+ packages including
+R.

@@ -10,8 +10,12 @@ output: html_document
 knitr::include_graphics("pics/logotight.png")
 ```
 
+**The year 2020 marks the 20th anniversary of the release of R version 1.0.0!**
 
-<h3><a href="registration.html">Registration open now!</a></h3>
+To celebrate this, we are inviting the community of R users and developers for a two-day celebRation 28-29th February 2020. We kick off on 28th February with hands-on [workshops](workshops.html) on two hot topics, namely data visualization using the ggplot2 package and making fast extensions of R using the rcpp package. The day of the anniversary – February 29 – presents a line-up of speakers who cover the past, the present, and the future of the R programming language. 
+
+
+<h3>Join the celebRation! <a href="registration.html">Registration open now.</a></h3>
 
 
 ## Sponsors
@@ -23,5 +27,6 @@ knitr::include_graphics("pics/logotight.png")
 
 <a href = "https://www.dsts.dk"> <h3>The Danish Society for Theoretical Statistics</h3></a>
 
+<img src="./pics/DSTSlogo.png" alt="The Danish Society for Theoretical Statistics" style="width:400px">
 
 Interested in becoming a sponsor? Have a [look here](sponsorship.html).

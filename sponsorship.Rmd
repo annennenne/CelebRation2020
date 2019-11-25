@@ -18,3 +18,6 @@ If your organazation is interested in becoming a sponsor for CelebRation 2020, p
 
 
 <a href = "https://www.dsts.dk"> <h3>The Danish Society for Theoretical Statistics</h3></a>
+
+
+<img src="./pics/DSTSlogo.png" alt="The Danish Society for Theoretical Statistics" style="width:400px">

@@ -6,6 +6,7 @@ output: html_document
 # Overview
 
 *   [Venue](#venue)
+*   [Organizing committee](#organizers)
 *   [Code of conduct](#codeofconduct)
 
 
@@ -27,10 +28,20 @@ Website: <a href="https://maersktower.ku.dk/"> maersktower.ku.dk </a>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8996.822798339976!2d12.56338661964933!3d55.6854114273837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465253000f237763%3A0x998b21c02de60538!2sM%C3%A6rsk%20T%C3%A5rnet%20-%20K%C3%B8benhavns%20Universitet!5e0!3m2!1sda!2sdk!4v1574510892019!5m2!1sda!2sdk" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
 
+## Organizing committee {#organizers}
+
+- Anne Helby Petersen
+- Claus Thorn Ekstrøm
+- Mia Klinten Grand
+- Sofie K. Led
+- Stephan Nicholas Dahl
+- Therese Graversen
+
+
 ## Code of conduct {#codeofconduct}
 
 
-The organizers of CelbebRation 2020 are dedicated to providing a harassment-free conference experience for everyone regardless of age, gender, sexual orientation, disability, physical appearance, race, or religion (or lack thereof).
+The organizers of CelebRation 2020 are dedicated to providing a harassment-free conference experience for everyone regardless of age, gender, sexual orientation, disability, physical appearance, race, or religion (or lack thereof).
 
 All participants (including attendees, speakers, sponsors and volunteers) at CelebRation 2020 are required to agree to the following code of conduct.
 
