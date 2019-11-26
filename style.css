@@ -42,7 +42,9 @@ h4 {
 
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
-  color: #eeeeee;
+  color: #000000;
+  background-color: #2166b9;
+
 }
 .navbar-default .navbar-text {
   color: #ecf0f1;
