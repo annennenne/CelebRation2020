@@ -45,7 +45,7 @@ The organizers of CelebRation 2020 are dedicated to providing a harassment-free 
 
 All participants (including attendees, speakers, sponsors and volunteers) at CelebRation 2020 are required to agree to the following code of conduct.
 
-The code of conduct applies to all conference activities including talks, panels, workshops, and social events. It extends to conference-specific exchanges on social media, for instance posts tagged with the identifier of the conference (e.g. #CelebRation2020 on Twitter), replies to such posts, and replies to the official social media account (e.g. @CelebRation2020 on Twitter).
+The code of conduct applies to all conference activities including talks, panels, workshops, and social events. It extends to conference-specific exchanges on social media, for instance posts tagged with the identifier of the conference (e.g. #CelebRation2020 on Twitter), replies to such posts, and replies to the official social media account (e.g. @CelebRtion2020 on Twitter).
 
 Organizers will enforce this code throughout and expect cooperation in ensuring a safe environment for all.
 
@@ -53,8 +53,8 @@ Organizers will enforce this code throughout and expect cooperation in ensuring 
 
 All conference participants agree to:
 
-- Be considerate in speech and actions, and respect the boundaries of fellow participants.
-- Refrain from demeaning, discriminatory, or harassing behaviour and speech. Please refer to Unacceptable Behaviour for more details.
+- Be considerate in language and actions, and respect the boundaries of fellow participants.
+- Refrain from demeaning, discriminatory, or harassing behaviour and language. Please refer to Unacceptable Behaviour for more details.
 - Alert a member of the code of conduct response team by getting hold of one of the dedicated conference helpers, if you notice someone in distress, or observe violations of this code of conduct, even if they seem inconsequential. Please refer to the section titled What To Do If You Witness or Are Subject To Unacceptable Behaviour for more details.
 
 ### Unacceptable Behaviour
@@ -66,7 +66,7 @@ Behaviour that is unacceptable includes, but is not limited to:
 - Unwanted photography or recording
 - Sustained or willful disruption of talks or other events
 - Use of sexual or discriminatory imagery, comments, or jokes
-- Offensive verbal comments related to age, gender, sexual orientation, disability, race or religion
+- Offensive comments related to age, gender, sexual orientation, disability, race or religion
 - Inappropriate physical contact, which can include grabbing, or massaging or hugging without consent.
 - Unwelcome sexual attention, which can include inappropriate questions of a sexual nature, asking for sexual favours or repeatedly asking for dates or contact information.
 
