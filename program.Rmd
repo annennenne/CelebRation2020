@@ -107,6 +107,7 @@ knitr::include_graphics("pics/markedmondson.png")
 
 #### Mark Edmondson
 *IIH Nordic, Denmark*
+
 Mark works as a data engineer at IIH Nordic and is a certified Google Developer Expert for Google Analytics and Google Cloud. He has developed several CRAN packages calling Google APIs such as Google Analytics, Compute Engine and Cloud Storage, some of which he contributes to rOpenSci and the cloudyR organisations.  
 
 </div>

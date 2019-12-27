@@ -20,6 +20,6 @@ We offer a very limited number of free tickets in exchange for practical help on
 
 ## Register
 
-Register [here](https://eventsignup.ku.dk/celebration2020/registration.html).
+Register <a href = "https://eventsignup.ku.dk/celebration2020/registration.html" target="_blank">here</a>. You may need to disable pop-up blockers in your browser.
 
 If you have questions about registration, contact us at registration@celebration2020.org. 
