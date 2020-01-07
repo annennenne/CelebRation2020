@@ -6,8 +6,6 @@ includes:
 ---
 
 ### Program outline
-*A detailed program will be added soon.*
-
 
 ##### February 28, 2020:
 
@@ -23,6 +21,7 @@ includes:
   - Therese Graversen: TBA
   - Mark Edmondson: [Evolving R with Docker and the Cloud]
   - Hannah Frick: TBA
+  - Winston Chang: TBA
   
 - 18.00-20.00: Reception and celebration of R. 
 

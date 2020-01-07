@@ -8,7 +8,13 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-On February 28 from 13.00-17.00, we offer two parallel, exciting workshops, **Contemporary ggplot2** hosted by Thomas Lin Pedersen and **Extending R with C++** hosted by Dirk Eddelbuettel, described in more detail below. Note that there are limited seats available for each workshop and that tickets can be purchased when <a href="registration.html">registering for the conference</a>.
+On February 28 from 13.00-17.00, we offer two parallel, exciting workshops, **Contemporary ggplot2** hosted by Thomas Lin Pedersen and **Extending R with C++** hosted by Dirk Eddelbuettel, described in more detail below. 
+
+Note that there are limited seats available for each workshop and that tickets can be purchased when <a href="registration.html">registering for the conference</a>.
+
+The workshops will be held at the [IT University of
+Copenhagen](https://www.itu.dk), Rued Langgaards Vej 7, 2300
+Copenhagen S. The closest Metro station is Islands Brygge.
 
 
 ### Contemporary ggplot2
@@ -59,12 +65,13 @@ R users wanting to go beyond R. Prior experience with
 compiled languages like C and C++ is helpful but not required.
 
 #### About the instructor
+
 Dr Dirk Eddelbuettel has been a (co-)author and maintainer for the
-Rcpp project since its inception. He works as a senior “quant” in in-
-dustry combining C++ and R for high-frequency data analysis and
-predictive models in finance, and teaches a class on Data Science Pro-
-gramming Methods as a Clinical Professor at the University of Illinois
-at Urbana-Champaign. He is author, co-author, or maintainer of sixty
-CRAN packages, an elected board member of the R Foundation, and a
-25+ year contributor to Debian looking after 150+ packages including
-R.
+Rcpp project since its inception. He works as a senior “quant” in
+industry combining C++ and R for high-frequency data analysis and
+predictive models in finance, and teaches a class on Data Science
+Programming Methods as a Clinical Professor at the University of
+Illinois at Urbana-Champaign. He is author, co-author, or maintainer
+of sixty CRAN packages, an elected board member of the R Foundation,
+and a 25+ year contributor to Debian looking after 150+ packages
+including R.
