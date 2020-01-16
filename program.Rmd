@@ -20,7 +20,7 @@ includes:
   - Heather Turner: [Moving Forwards: Greater Equity and Inclusion in the R Community]
   - Therese Graversen: [R Provides Statistical Evidence in Criminal Cases]
   - Mark Edmondson: [Evolving R with Docker and the Cloud]
-  - Hannah Frick: TBA
+  - Hannah Frick: [Assessing model parameter stability in R]
   - Winston Chang: [When, Why, and How to Do Object-Oriented Programming with R6]
 
   
@@ -219,6 +219,14 @@ R has proven to be a flexible and powerful platform for developing specialised s
 Drawing on the pivotal work of the rocker-project.org, Docker opens up capabilities for R to scale vertically and horizontally within the Cloud. Using Google Cloud Platform as an example, Mark charts his own journey through cloud based R applications, underpinned by embracing Docker. Starting with "lift-and-shift" of replicating local R environments in massive virtual machines, to adapting R workflows to leverage massive parallel processing on computing clusters, and now culminating with his newest ‘serverless R’ package, googleCloudRunner that offers cloud capabilities to anyone with a few lines of R.  Learn how to create R APIs that scale from 0 to millions, throw asynchronous R builds up to the cloud and perform easy script scheduling.
 
 <br>
+
+### Assessing model parameter stability in R
+*Hannah Frick*
+
+When we fit a model, we often make the assumption that the same set of model parameters holds for the entire sample. However, different parameters may hold in subgroups (or clusters) in the data and these clusters may or may not be explained by additional covariates. Finite mixture models are a common technique for detecting such clusters and additional covariates (if available) can be included as concomitant variables. Another approach that relies on covariates for detecting the clusters are model-based trees. This talk explores these approaches in the context of Rasch models for binary questionnaire data with the psychomix and psychotree packages.
+
+<br>
+
 
 ### When, Why, and How to Do Object-Oriented Programming with R6
 *Winston Chang*
