@@ -18,18 +18,17 @@ includes:
   - Julia Silge: [Text Mining with Tidy Data Principles]
   - Roger Bivand: [How R Helped Provide Tools for Spatial Data Analysis]
   - Heather Turner: [Moving Forwards: Greater Equity and Inclusion in the R Community]
-  - Therese Graversen: TBA
+  - Therese Graversen: [R Provides Statistical Evidence in Criminal Cases]
   - Mark Edmondson: [Evolving R with Docker and the Cloud]
   - Hannah Frick: TBA
-  - Winston Chang: TBA
+  - Winston Chang: [When, Why, and How to Do Object-Oriented Programming with R6]
+
   
 - 18.00-20.00: Reception and celebration of R. 
 
 
 
 ### Speakers
-
-*More to be announced*
 
 ```{r echo=FALSE}
 knitr::knit_hooks$set(class = function(before, options, envir) {
@@ -134,6 +133,19 @@ Hannah works as a senior data scientist at Mango Solutions where she helps organ
 
 </div>
 
+<div class="speakerintro">
+```{r echo=FALSE, class="speakerimage"}
+knitr::include_graphics("pics/winstonchang.jpeg")
+```
+
+
+#### Winston Chang
+*RStudio, USA*
+
+Winston is a software engineer at RStudio, and the creator of the R6 package. Moreover, he is a developer for the Shiny, ggplot2, and devtools packages. He holds a Ph.D. in psychology from Northwestern University and is the author of R Graphics Cookbook.
+
+</div>
+
 ### Workshop hosts
 
 <div class="speakerintro">
@@ -193,7 +205,24 @@ However, there is still much that can be done to widen the participation of unde
 
 <br>
 
+### R Provides Statistical Evidence in Criminal Cases
+*Therese Graversen*
+
+R has proven to be a flexible and powerful platform for developing specialised statistical software, allowing me to single-handedly implement our academic research into a software solution now used in several court cases. I will discuss some criminal cases where I have acted as an expert witness. In particular, I will highlight the role that R plays in criminal investigations pertaining to complex DNA evidence, and the various ways in which R has been pivotal in changing the way that DNA evidence is evaluated.
+
+
+<br>
+
 ### Evolving R with Docker and the Cloud
 *Mark Edmondson*
 
 Drawing on the pivotal work of the rocker-project.org, Docker opens up capabilities for R to scale vertically and horizontally within the Cloud. Using Google Cloud Platform as an example, Mark charts his own journey through cloud based R applications, underpinned by embracing Docker. Starting with "lift-and-shift" of replicating local R environments in massive virtual machines, to adapting R workflows to leverage massive parallel processing on computing clusters, and now culminating with his newest ‘serverless R’ package, googleCloudRunner that offers cloud capabilities to anyone with a few lines of R.  Learn how to create R APIs that scale from 0 to millions, throw asynchronous R builds up to the cloud and perform easy script scheduling.
+
+<br>
+
+### When, Why, and How to Do Object-Oriented Programming with R6
+*Winston Chang*
+
+R's traditional object systems, S3 and S4, are well-suited for most data analysis tasks. But as the R ecosystem grows and evolves, we frequently encounter other kinds of problems that are better served by a "classical" object-oriented system, similar to those used in C++ and Java. The R6 package provides this sort of system. I will discuss when and why it makes sense to use R6, and illustrate with real-world examples. I will also explain how R6 came to be, as well as its design and implementation. The R language is being used more and more for managing external compute and data resources, and this style of object-oriented programming is especially well-suited for these tasks.
+
+<br>

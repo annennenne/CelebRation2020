@@ -16,8 +16,16 @@ If your organazation is interested in becoming a sponsor for CelebRation 2020, p
 
 <img src="./pics/novologo.png" alt="Novo Nordisk" style="width:400px">
 
+<br>
 
 <a href = "https://www.dsts.dk"> <h3>The Danish Society for Theoretical Statistics</h3></a>
 
 
 <img src="./pics/DSTSlogo.png" alt="The Danish Society for Theoretical Statistics" style="width:400px">
+
+<br>
+
+<a href = "https://www.ida.dk"> <h3>The Danish Society of Engineers, IDA</h3></a>
+
+
+<img src="./pics/idalogo.png" alt="The Danish Society of Engineers, IDA" style="width:400px">
