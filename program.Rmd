@@ -13,18 +13,26 @@ includes:
 
 ##### February 29, 2020:
 
-- 09.30-18.00: CelebRation 2020 invited presentations, including:
-  - Peter Dalgaard: [A Brief History of R and some Thoughts about Its Future]
-  - Julia Silge: [Text Mining with Tidy Data Principles]
-  - Roger Bivand: [How R Helped Provide Tools for Spatial Data Analysis]
-  - Heather Turner: [Moving Forwards: Greater Equity and Inclusion in the R Community]
-  - Therese Graversen: [R Provides Statistical Evidence in Criminal Cases]
-  - Mark Edmondson: [Evolving R with Docker and the Cloud]
-  - Hannah Frick: [Assessing model parameter stability in R]
-  - Winston Chang: [When, Why, and How to Do Object-Oriented Programming with R6]
-
-  
-- 18.00-20.00: Reception and celebration of R. 
+| Time  | Activity                                                                           |
+|-------|------------------------------------------------------------------------------------|
+| 9:30  | Welcome                                                                            |
+| 9:35  | Peter Dalgaard: [A Brief History of R and some Thoughts about Its Future]          |
+| 10:20 | Birthday celebration                                                               |
+| 10:25 | Roger Bivand: [How R Helped Provide Tools for Spatial Data Analysis]               |
+| 11:10 | Break                                                                              |
+| 11:35 | Mark Edmondson: [Evolving R with Docker and the Cloud]                             |
+| 12:20 | Thomas Lin Pedersen: [Generative Art in R]                                         |
+| 12:30 | Therese Graversen: [R Provides Statistical Evidence in Criminal Cases]             |
+| 13:15 | Lunch                                                                              |
+| 14:00 | Julia Silge: [Text Mining with Tidy Data Principles]                               |
+| 14:45 | Birthday celebration                                                               |
+| 14:55 | Hannah Frick: [Assessing model parameter stability in R]                           |
+| 15:40 | Break                                                                              |
+| 16:10 | Winston Chang: [When, Why, and How to Do Object-Oriented Programming with R6]      |
+| 16:55 | Birthday celebration                                                               |
+| 17:05 | Heather Turner: [Moving Forwards: Greater Equity and Inclusion in the R Community] |
+| 17:50 | Closing                                                                            |
+| 18:00 | Reception                                                                          |
 
 
 
