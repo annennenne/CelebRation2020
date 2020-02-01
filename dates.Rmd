@@ -6,4 +6,4 @@ output: html_document
 # Important dates
 
 *   **January 6th, 2020**. Early bird [registration deadline](https://eventsignup.ku.dk/celebration2020/registration.html).
-*   **February 3rd, 2020**. Regular [registration deadline](https://eventsignup.ku.dk/celebration2020/registration.html).
+*   **February 10th, 2020**. Regular [registration deadline](https://eventsignup.ku.dk/celebration2020/registration.html).
