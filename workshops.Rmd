@@ -12,9 +12,8 @@ On February 28 from 13.00-17.00, we offer two parallel, exciting workshops, **Co
 
 Note that there are limited seats available for each workshop and that tickets can be purchased when <a href="registration.html">registering for the conference</a>.
 
-The workshops will be held at the [IT University of
-Copenhagen](https://www.itu.dk), Rued Langgaards Vej 7, 2300
-Copenhagen S. The closest Metro station is Islands Brygge.
+The workshops will be held at the University of Copenhagen, The Maersk
+Tower Blegdamsvej 3B, 2200 Copenhagen N, Denmark. The closets Metro Station is Trianglen Station.
 
 
 ### Contemporary ggplot2
