@@ -10,11 +10,13 @@ includes:
 ##### February 28, 2020:
 
 - 13.00-17.00: [Workshops](workshops.html)
+- 17.00-18.30: After-work drinks
 
 ##### February 29, 2020:
 
 | Time  | Activity                                                                           |
 |-------|------------------------------------------------------------------------------------|
+| 9:00  | Registration                                                                       |
 | 9:30  | Welcome                                                                            |
 | 9:35  | Peter Dalgaard: [A Brief History of R and some Thoughts about Its Future]          |
 | 10:20 | Birthday celebration                                                               |
