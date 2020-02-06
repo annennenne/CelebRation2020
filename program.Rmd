@@ -72,7 +72,7 @@ knitr::include_graphics("pics/juliasilge.jpg")
 ```
 
 #### Julia Silge 
-*StackOverflow, USA*
+*RStudio, USA*
 
 Julia is the author of the tidytext R package and has been a strong advocate for tidy structured text mining approaches in R. 
 
