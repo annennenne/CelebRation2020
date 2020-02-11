@@ -27,7 +27,7 @@ To celebrate this, we are inviting the community of R users and developers for a
   <div class="col-md-6">
 <a href="https://www.jetbrains.com/"> <h3>Jet Brains</h3></a>
 
-<img src="./pics/logo_JetBrains_4.png" alt="Novo Nordisk" style="width:400px">
+<img src="./pics/logo_JetBrains_4.png" alt="Jet Brains" style="width:400px">
   </div>
   <div class="col-md-6">
 <a href="https://www.novonordisk.com/"> <h3>Novo Nordisk</h3></a>
@@ -48,5 +48,8 @@ To celebrate this, we are inviting the community of R users and developers for a
 <img src="./pics/idalogo.png" alt="The Danish Society of Engineers, IDA" style="width:400px">
   </div>
 </div>
+
+and the **Center for Health Data Science**, University of Copenhagen.
+
 
 Interested in becoming a sponsor? Have a [look here](sponsorship.html).
