@@ -9,6 +9,7 @@ includes:
 
 ##### February 28, 2020:
 
+- 12.30-13.00: Registration
 - 13.00-17.00: [Workshops](workshops.html)
 - 17.00-18.30: After-work drinks
 
