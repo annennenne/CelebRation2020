@@ -9,9 +9,9 @@ output: html_document
 | Ticket                            | Price                |
 |-----------------------------------|----------------------|
 | ~~Conference day (early bird price)~~ | ~~500 DKK (~70 euros)~~  |
-| Conference day (regular price)    | 750 DKK (~100 euros) |
+| ~~Conference day (regular price)~~    | ~~750 DKK (~100 euros)~~ |
 | ~~Workshop (early bird price)~~       | ~~350 DKK (~50 euros)~~  |
-| Workshop (regular price)          | 500 DKK (~70 euros)  |
+| ~~Workshop (regular price)~~          | ~~500 DKK (~70 euros)~~  |
 
 The regular tickets are on sale until **February 10th, 2020**, or until sold out. The early bird tickets were on sale until January 6, 2020. 
 
