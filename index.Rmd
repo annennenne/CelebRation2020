@@ -49,7 +49,9 @@ To celebrate this, we are inviting the community of R users and developers for a
   </div>
 </div>
 
-and the **Center for Health Data Science**, University of Copenhagen.
+In addition, Springer Verlag, CRC Press / Taylor and Francis, and the
+**Center for Health Data Science**, University of Copenhagen, are
+sponsoring the event.
 
 
 Interested in becoming a sponsor? Have a [look here](sponsorship.html).
