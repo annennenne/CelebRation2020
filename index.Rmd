@@ -49,9 +49,24 @@ To celebrate this, we are inviting the community of R users and developers for a
   </div>
 </div>
 
-In addition, Springer Verlag, CRC Press / Taylor and Francis, and the
-**Center for Health Data Science**, University of Copenhagen, are
-sponsoring the event.
+<br><br>
+
+In addition, the **Center for Health Data Science**, University of
+Copenhagen, is sponsoring the event, and CRC press and Springer are
+sponsoring by providing birthday prizes.
+
+<div class="row">
+<div class="col-md-3"></div>
+<div class="col-md-3">
+ <img src="./pics/crc.jpg" alt="CRC Press - Taylor and Francis Group" style="width:200px">
+</div>
+<div class="col-md-3">
+<img src="./pics/springer.png" alt="Springer Verlag" style="width:200px">
+</div>
+<div class="col-md-3"></div>
+</div>
+
+
 
 
 Interested in becoming a sponsor? Have a [look here](sponsorship.html).
