@@ -9,8 +9,9 @@ navbar:
       icon: fa-comment
       href: program.html
     - text: "Videos"
-      icon: fa-video
-      href: https://www.youtube.com/channel/UCqEdfW-1KUn_QQyQogxqLeA/featured
+      icon: fa-youtube
+      href: videos.html
+      target: _blank
     - text: "Important dates"
       icon: fa-calendar-alt
       href: dates.html

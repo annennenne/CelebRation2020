@@ -1,0 +1,26 @@
+---
+title: "Videos"
+output: html_document
+includes:
+  - in-header: imginclude.html
+---
+
+
+### Peter Dalgaard: A Brief History of R and some Thoughts about Its Future
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Uey45MSg8Y4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<br>
+
+### Roger Bivand: How R Helped Provide Tools for Spatial Data Analysis
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D4-roPsMz48" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+
+### Mark Edmonson: Evolving R with Docker and the Cloud
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YRvejW9FSJ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
