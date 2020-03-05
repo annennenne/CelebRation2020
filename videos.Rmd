@@ -24,3 +24,7 @@ includes:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YRvejW9FSJ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
+
+### Thomas Lin Pedersen: Generative Art in R
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8FWSrvEFY4E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
