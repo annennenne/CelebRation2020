@@ -18,7 +18,9 @@ Tower Blegdamsvej 3B, 2200 Copenhagen N, Denmark. The closets Metro Station is T
 
 ### Contemporary ggplot2
 
-*Workshop host: Thomas Lin Pedersen, software engineer at RStudio. *
+*Workshop host: Thomas Lin Pedersen, software engineer at RStudio.*
+
+[Workshop slides](https://github.com/thomasp85/ggplot2_workshop)
 
 #### Background
 
@@ -37,6 +39,8 @@ Thomas is part of the tidyverse team at RStudio, where he focuses on improving t
 ### Rcpp Workshop: Extending R with C++
 
 *Workshop host: Dirk Eddelbuettel, Clinical Professor at the University of Illinois.*
+
+[Workshop slides](http://dirk.eddelbuettel.com/papers/celebRtion_feb2020_rcpp.pdf)
 
 #### Background 
 R has risen to become the lingua franca of statistical research and applications. 
